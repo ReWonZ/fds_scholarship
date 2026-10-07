@@ -2,7 +2,7 @@
   "backupType": "ScholarshipFormManager",
   "backupVersion": 1,
   "backupMode": "merged",
-  "exportedAt": "2026-10-07T16:53:36.412Z",
+  "exportedAt": "2026-10-07T17:56:49.890Z",
   "exportedBy": {
     "name": "Administrator",
     "username": "admin",
@@ -14,6 +14,8 @@
   },
   "mergeInfo": {
     "sourceFiles": [
+      "ScholarshipFormManager_Backup_Administrator_2026-10-07.json",
+      "FDS_Master_Backup_2026-10-07.json",
       "7f4af5db-6e99-4a98-bab1-7c5b29183645-ScholarshipFormManager_Backup_Administrator_2026-10-07.json",
       "4611d6ec-7287-411f-958e-b196cabb1582-ScholarshipFormManager_Backup_Administrator_2026-10-07.json",
       "18863db5-3971-466d-9e3c-65bb3f3b58d6-ScholarshipFormManager_Backup_admin_2026-10-07.json",
@@ -21,8 +23,26 @@
       "FDS_Master_Backup_2026 (1).json",
       "FDS_Master_Backup_2026.json"
     ],
-    "sourceFileCount": 6,
+    "sourceFileCount": 8,
     "sourceUsers": [
+      {
+        "file": "ScholarshipFormManager_Backup_Administrator_2026-10-07.json",
+        "name": "Administrator",
+        "username": "admin",
+        "role": "administrator",
+        "exportedAt": "2026-10-07T17:43:12.226Z",
+        "backupVersion": 1,
+        "backupMode": "individual"
+      },
+      {
+        "file": "FDS_Master_Backup_2026-10-07.json",
+        "name": "Administrator",
+        "username": "admin",
+        "role": "administrator",
+        "exportedAt": "2026-10-07T16:53:36.412Z",
+        "backupVersion": 1,
+        "backupMode": "merged"
+      },
       {
         "file": "7f4af5db-6e99-4a98-bab1-7c5b29183645-ScholarshipFormManager_Backup_Administrator_2026-10-07.json",
         "name": "Administrator",
@@ -82,7 +102,7 @@
     "duplicateRule": "Newest updatedAt record is kept.",
     "schoolMergeRule": "School ID is preferred; name + upazila is used when ID is unavailable.",
     "settingsMergeRule": "Newest updatedAt record is kept.",
-    "mergedAt": "2026-10-07T16:53:36.412Z",
+    "mergedAt": "2026-10-07T17:56:49.891Z",
     "mergedBy": {
       "name": "Administrator",
       "username": "admin",
@@ -40858,6 +40878,52 @@
     ],
     "schools": [
       {
+        "name": "wefw",
+        "upazila": "Homna",
+        "union": "",
+        "village": "",
+        "principalName": "",
+        "principalPhone": "",
+        "dutyTeacherName": "",
+        "dutyTeacherPhone": "",
+        "id": "school_5b64ac14-a019-4433-8750-852fa4f94625",
+        "createdAt": "2026-09-20T08:51:55.338Z",
+        "updatedAt": "2026-09-20T08:51:55.338Z",
+        "createdBy": {
+          "name": "Rahim Ahmed",
+          "username": "rahim",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Rahim Ahmed",
+          "username": "rahim",
+          "role": "member"
+        }
+      },
+      {
+        "name": "gjkvlh",
+        "upazila": "Homna",
+        "union": "",
+        "village": "",
+        "principalName": "",
+        "principalPhone": "",
+        "dutyTeacherName": "",
+        "dutyTeacherPhone": "",
+        "id": "school_e6f92e72-084e-4cad-b742-61d19557f66a",
+        "createdAt": "2026-09-26T13:35:51.888Z",
+        "updatedAt": "2026-09-26T13:35:51.888Z",
+        "createdBy": {
+          "name": "Administrator",
+          "username": "admin",
+          "role": "administrator"
+        },
+        "updatedBy": {
+          "name": "Administrator",
+          "username": "admin",
+          "role": "administrator"
+        }
+      },
+      {
         "name": "Tty",
         "upazila": "Meghna",
         "union": "",
@@ -41099,52 +41165,6 @@
         "id": "school_e9c329b6-81f6-4166-b0b8-1e017299e402",
         "createdAt": "2026-09-26T03:55:09.892Z",
         "updatedAt": "2026-09-26T03:55:09.892Z",
-        "createdBy": {
-          "name": "Administrator",
-          "username": "admin",
-          "role": "administrator"
-        },
-        "updatedBy": {
-          "name": "Administrator",
-          "username": "admin",
-          "role": "administrator"
-        }
-      },
-      {
-        "name": "wefw",
-        "upazila": "Homna",
-        "union": "",
-        "village": "",
-        "principalName": "",
-        "principalPhone": "",
-        "dutyTeacherName": "",
-        "dutyTeacherPhone": "",
-        "id": "school_5b64ac14-a019-4433-8750-852fa4f94625",
-        "createdAt": "2026-09-20T08:51:55.338Z",
-        "updatedAt": "2026-09-20T08:51:55.338Z",
-        "createdBy": {
-          "name": "Rahim Ahmed",
-          "username": "rahim",
-          "role": "member"
-        },
-        "updatedBy": {
-          "name": "Rahim Ahmed",
-          "username": "rahim",
-          "role": "member"
-        }
-      },
-      {
-        "name": "gjkvlh",
-        "upazila": "Homna",
-        "union": "",
-        "village": "",
-        "principalName": "",
-        "principalPhone": "",
-        "dutyTeacherName": "",
-        "dutyTeacherPhone": "",
-        "id": "school_e6f92e72-084e-4cad-b742-61d19557f66a",
-        "createdAt": "2026-09-26T13:35:51.888Z",
-        "updatedAt": "2026-09-26T13:35:51.888Z",
         "createdBy": {
           "name": "Administrator",
           "username": "admin",
