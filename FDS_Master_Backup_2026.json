@@ -121,7 +121,7 @@
       },
       {
         "formNumber": "6708",
-        "schoolId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "schoolId": "school_11876ee5-e905-4a0e-9d0f-4d667814d72e",
         "area": "গৌরীপুর",
         "distributionDate": "2026-10-13",
         "studentName": "প্রান্ত চন্দ্র সরকার",
@@ -155,7 +155,7 @@
       },
       {
         "formNumber": "6709",
-        "schoolId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "schoolId": "school_11876ee5-e905-4a0e-9d0f-4d667814d72e",
         "area": "গৌরীপুর",
         "distributionDate": "2026-10-13",
         "studentName": "শাফায়েত ভূঁইয়া",
@@ -189,7 +189,7 @@
       },
       {
         "formNumber": "6710",
-        "schoolId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "schoolId": "school_11876ee5-e905-4a0e-9d0f-4d667814d72e",
         "area": "গৌরীপুর",
         "distributionDate": "2026-10-13",
         "studentName": "আব্দুল্লাহ আরোবি",
@@ -223,7 +223,7 @@
       },
       {
         "formNumber": "6711",
-        "schoolId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "schoolId": "school_11876ee5-e905-4a0e-9d0f-4d667814d72e",
         "area": "গৌরীপুর",
         "distributionDate": "2026-10-13",
         "studentName": "ওমর শুর দুর্জয়",
@@ -257,7 +257,7 @@
       },
       {
         "formNumber": "6714",
-        "schoolId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "schoolId": "school_11876ee5-e905-4a0e-9d0f-4d667814d72e",
         "area": "গৌরীপুর",
         "distributionDate": "2026-10-13",
         "studentName": "হাবিব মাহমুদ",
@@ -891,29 +891,6 @@
           "name": "Administrator",
           "username": "admin",
           "role": "administrator"
-        }
-      },
-      {
-        "name": "গৌরীপুর সুবল আফতাব উচ্চ বিদ্যালয়",
-        "upazila": "Daudkandi",
-        "union": "",
-        "village": "গৌরীপুর",
-        "principalName": "",
-        "principalPhone": "",
-        "dutyTeacherName": "",
-        "dutyTeacherPhone": "",
-        "id": "school_3a311d01-6870-4a2b-9894-de669827c369",
-        "createdAt": "2026-10-13T12:01:10.670Z",
-        "updatedAt": "2026-10-13T12:02:40.612Z",
-        "createdBy": {
-          "name": "Anower Hossain",
-          "username": "anowerhossain26",
-          "role": "member"
-        },
-        "updatedBy": {
-          "name": "Anower Hossain",
-          "username": "anowerhossain26",
-          "role": "member"
         }
       }
     ],
