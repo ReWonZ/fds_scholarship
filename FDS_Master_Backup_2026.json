@@ -2,7 +2,7 @@
   "backupType": "ScholarshipFormManager",
   "backupVersion": 1,
   "backupMode": "merged",
-  "exportedAt": "2026-10-13T12:24:06.169Z",
+  "exportedAt": "2026-10-14T16:36:10.476Z",
   "exportedBy": {
     "name": "Administrator",
     "username": "admin",
@@ -14,35 +14,35 @@
   },
   "mergeInfo": {
     "sourceFiles": [
-      "FSD_Ekramul_Haq.json",
-      "FSD_Anower_Hossain.json"
+      "FSD_Anower_Hossain_2026-10-14.json",
+      "FDS_Master_Backup_2026-10-13 (1).json"
     ],
     "sourceFileCount": 2,
     "sourceUsers": [
       {
-        "file": "FSD_Ekramul_Haq.json",
-        "name": "Ekramul Haq",
-        "username": "ekramulhaq26",
+        "file": "FSD_Anower_Hossain_2026-10-14.json",
+        "name": "Anower Hossain",
+        "username": "anowerhossain26",
         "role": "member",
-        "exportedAt": "2026-10-13T07:52:20.672Z",
+        "exportedAt": "2026-10-14T13:36:40.094Z",
         "backupVersion": 1,
         "backupMode": "individual"
       },
       {
-        "file": "FSD_Anower_Hossain.json",
-        "name": "Anower Hossain",
-        "username": "anowerhossain26",
-        "role": "member",
-        "exportedAt": "2026-10-13T12:13:47.052Z",
+        "file": "FDS_Master_Backup_2026-10-13 (1).json",
+        "name": "Administrator",
+        "username": "admin",
+        "role": "administrator",
+        "exportedAt": "2026-10-13T18:10:36.168Z",
         "backupVersion": 1,
-        "backupMode": "individual"
+        "backupMode": "merged"
       }
     ],
     "mergeKey": "formNumber",
     "duplicateRule": "Newest updatedAt record is kept.",
     "schoolMergeRule": "School ID is preferred; name + upazila is used when ID is unavailable.",
     "settingsMergeRule": "Newest updatedAt record is kept.",
-    "mergedAt": "2026-10-13T12:24:06.169Z",
+    "mergedAt": "2026-10-14T16:36:10.477Z",
     "mergedBy": {
       "name": "Administrator",
       "username": "admin",
@@ -562,6 +562,380 @@
         "submittedAt": "2026-10-13T04:34:31.547Z"
       },
       {
+        "formNumber": "7655",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "মোঃ শাফিন আহমেদ শাফি",
+        "fatherName": "সাদিকুর রহমান",
+        "motherName": "বিলকিস আক্তার",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01863030242",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_5ae8932a-6395-4290-8593-d59a55f40670",
+        "createdAt": "2026-10-14T07:19:23.065Z",
+        "updatedAt": "2026-10-14T07:19:23.078Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:19:23.078Z"
+      },
+      {
+        "formNumber": "7657",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "মোহাম্মদ ওসমান গনি",
+        "fatherName": "মোহাম্মদ এমরান মোল্লা",
+        "motherName": "মিসেস উম্মে হানি",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01816122476",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_dfd4f893-ba53-4f63-b2ee-87114136e6f5",
+        "createdAt": "2026-10-14T07:25:50.703Z",
+        "updatedAt": "2026-10-14T07:25:50.703Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:25:50.703Z"
+      },
+      {
+        "formNumber": "7659",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "জুবায়ের",
+        "fatherName": "জামির আলম",
+        "motherName": "নাজমিন",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01872569600",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_3efaee05-cef5-4b8c-9939-3fad907659d3",
+        "createdAt": "2026-10-14T07:22:12.201Z",
+        "updatedAt": "2026-10-14T07:22:12.201Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:22:12.201Z"
+      },
+      {
+        "formNumber": "7660",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "জায়েদ",
+        "fatherName": "আলম",
+        "motherName": "আয়েশা বেগম",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01817573301",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_cdb518d0-e6a0-42b5-b910-a2fdce0b81d6",
+        "createdAt": "2026-10-14T07:25:05.200Z",
+        "updatedAt": "2026-10-14T07:25:05.200Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:25:05.200Z"
+      },
+      {
+        "formNumber": "7666",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "রিহাদুল ইসলাম আরাফাত",
+        "fatherName": "উজ্জল মিয়া",
+        "motherName": "জাকিয়া সুলতানা",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01810482023",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_9a5b4890-8e9a-4131-9729-0d6b6cd8be56",
+        "createdAt": "2026-10-14T07:26:33.699Z",
+        "updatedAt": "2026-10-14T07:26:33.699Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:26:33.699Z"
+      },
+      {
+        "formNumber": "7667",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "মোহাম্মদ জুবাইদ হাসান",
+        "fatherName": "মোঃ শামসুদ্দিন",
+        "motherName": "নুরনাহার",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01759730660",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_888f2a48-88a6-4edb-9ac4-a75462a79131",
+        "createdAt": "2026-10-14T07:23:16.119Z",
+        "updatedAt": "2026-10-14T07:23:16.119Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:23:16.119Z"
+      },
+      {
+        "formNumber": "7668",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "আব্দুল্লাহ রাফি",
+        "fatherName": "মোঃ রাসেল",
+        "motherName": "শাকিলা আক্তার",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01817323216",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_a46fe8fb-671d-4384-b1e9-03672034fcee",
+        "createdAt": "2026-10-14T07:21:32.938Z",
+        "updatedAt": "2026-10-14T07:21:32.938Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:21:32.938Z"
+      },
+      {
+        "formNumber": "7669",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "রাকিবুল হাসান",
+        "fatherName": "জয়নাল আবেদীন",
+        "motherName": "রাশিদা আক্তার",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01852948700",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_1b45f333-89fc-4438-b816-b3ff543b2ff0",
+        "createdAt": "2026-10-14T07:20:41.607Z",
+        "updatedAt": "2026-10-14T07:20:41.607Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:20:41.607Z"
+      },
+      {
+        "formNumber": "7672",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "আশফাক নূর",
+        "fatherName": "শফিক মিয়া",
+        "motherName": "পারভিন আক্তার",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01877174510",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_36194c77-063d-4aea-ac7b-09b950f0efff",
+        "createdAt": "2026-10-14T07:24:01.848Z",
+        "updatedAt": "2026-10-14T07:24:01.848Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:24:01.848Z"
+      },
+      {
+        "formNumber": "7673",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "তাফসীর সরকার",
+        "fatherName": "আসিফ সরকার",
+        "motherName": "তানিয়া",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01866813914",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_dfcfeb99-44db-4a42-9bdb-a10ad79d918c",
+        "createdAt": "2026-10-14T07:27:16.870Z",
+        "updatedAt": "2026-10-14T07:27:16.870Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:27:16.870Z"
+      },
+      {
+        "formNumber": "7674",
+        "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
+        "area": "জিয়ারকান্দি, জিয়ারকান্দি",
+        "distributionDate": "2026-10-14",
+        "studentName": "আবু বকর",
+        "fatherName": "বিল্লাল",
+        "motherName": "মহিমা",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "01875676952",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_4389e583-aabe-43d8-b8af-5c5f35515388",
+        "createdAt": "2026-10-14T07:27:54.514Z",
+        "updatedAt": "2026-10-14T07:27:54.514Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "submittedAt": "2026-10-14T07:27:54.514Z"
+      },
+      {
         "formNumber": "8639",
         "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
         "area": "জিয়ারকান্দি, জিয়ারকান্দি",
@@ -800,6 +1174,30 @@
         "submittedAt": "2026-10-13T04:49:31.136Z"
       }
     ],
+    "deletedForms": [
+      {
+        "id": "deleted_6571b739-1bc6-4bd0-b329-bc0bf5b5386e",
+        "formNumber": "1001",
+        "formData": "{\"formNumber\":\"1001\",\"schoolId\":\"school_ffd4ce72-a8af-4259-b1e0-3aa588960c05\",\"area\":\"জিয়ারকান্দি, জিয়ারকান্দি\",\"distributionDate\":\"2026-10-13\",\"studentName\":\"\",\"fatherName\":\"\",\"motherName\":\"\",\"className\":\"Class 5\",\"roll\":\"\",\"studentPhone\":\"\",\"guardianPhone\":\"\",\"status\":\"Submitted\",\"notes\":\"\",\"id\":\"form_f0400971-926f-4aac-a22f-7f3514a37297\",\"createdAt\":\"2026-10-13T16:57:28.351Z\",\"updatedAt\":\"2026-10-13T16:57:28.353Z\",\"createdBy\":{\"name\":\"Anower Hossain\",\"username\":\"anowerhossain26\",\"role\":\"member\"},\"updatedBy\":{\"name\":\"Anower Hossain\",\"username\":\"anowerhossain26\",\"role\":\"member\"},\"submittedBy\":{\"name\":\"Anower Hossain\",\"username\":\"anowerhossain26\",\"role\":\"member\"},\"submittedAt\":\"2026-10-13T16:57:28.353Z\"}",
+        "deletedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "deletedAt": "2026-10-13T16:57:42.688Z"
+      },
+      {
+        "id": "deleted_4f1fa1ad-5d14-408c-81b2-2c8c3d113074",
+        "formNumber": "101",
+        "formData": "{\"formNumber\":\"101\",\"schoolId\":\"school_ffd4ce72-a8af-4259-b1e0-3aa588960c05\",\"area\":\"জিয়ারকান্দি, জিয়ারকান্দি\",\"distributionDate\":\"2026-10-12\",\"studentName\":\"\",\"fatherName\":\"\",\"motherName\":\"\",\"className\":\"Class 5\",\"roll\":\"\",\"studentPhone\":\"\",\"guardianPhone\":\"\",\"status\":\"Submitted\",\"notes\":\"\",\"id\":\"form_dfc26af8-9a81-4fb7-bf19-01553801b94b\",\"createdAt\":\"2026-10-12T04:38:14.887Z\",\"updatedAt\":\"2026-10-12T04:39:11.690Z\",\"createdBy\":{\"name\":\"Anower Hossain\",\"username\":\"anowerhossain26\",\"role\":\"member\"},\"updatedBy\":{\"name\":\"Anower Hossain\",\"username\":\"anowerhossain26\",\"role\":\"member\"},\"submittedBy\":{\"name\":\"Anower Hossain\",\"username\":\"anowerhossain26\",\"role\":\"member\"},\"submittedAt\":\"2026-10-12T04:39:11.690Z\"}",
+        "deletedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "deletedAt": "2026-10-13T12:10:30.715Z"
+      }
+    ],
     "schools": [
       {
         "name": "গৌরীপুর সুবল আফতাব উচ্চ বিদ্যালয়",
@@ -825,25 +1223,25 @@
         }
       },
       {
-        "name": "Daudkandi Adarsh pilot high School",
+        "name": "দাউদকান্দি আদর্শ পাইলট হাই স্কুল",
         "upazila": "Daudkandi",
-        "union": "Daudkandi",
+        "union": "দাউদকান্দি",
         "village": "",
-        "principalName": "joshimuddin",
+        "principalName": "জসীমউদ্দীন",
         "principalPhone": "",
         "dutyTeacherName": "",
         "dutyTeacherPhone": "",
         "id": "school_4b7f493f-3c5b-4b27-9194-91d7048a2e6c",
         "createdAt": "2026-10-13T04:43:22.836Z",
-        "updatedAt": "2026-10-13T04:43:22.837Z",
+        "updatedAt": "2026-10-13T15:40:25.328Z",
         "createdBy": {
           "name": "Ekramul Haq",
           "username": "ekramulhaq26",
           "role": "member"
         },
         "updatedBy": {
-          "name": "Ekramul Haq",
-          "username": "ekramulhaq26",
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
           "role": "member"
         }
       },
@@ -895,12 +1293,224 @@
       }
     ],
     "settings": [],
-    "syncQueue": []
+    "syncQueue": [
+      {
+        "id": "sync_09a002bc-96f7-452f-a8cf-f152c64ea737",
+        "entity": "form",
+        "entityId": "form_dfcfeb99-44db-4a42-9bdb-a10ad79d918c",
+        "action": "save",
+        "createdAt": "2026-10-14T07:27:16.880Z",
+        "synced": false
+      },
+      {
+        "id": "sync_0e78a7b3-d8ee-45de-a814-27e1bbf3250e",
+        "entity": "school",
+        "entityId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "action": "save",
+        "createdAt": "2026-10-13T12:01:10.697Z",
+        "synced": false
+      },
+      {
+        "id": "sync_1cca6eb0-3e52-48cf-bc6f-8cbd1b96dd56",
+        "entity": "form",
+        "entityId": "form_be347b5f-c208-4206-89e6-2bd615c30c47",
+        "action": "save",
+        "createdAt": "2026-10-13T12:07:46.975Z",
+        "synced": false
+      },
+      {
+        "id": "sync_1e7e39dc-28f9-430c-804c-04ba7cdaa87a",
+        "entity": "form",
+        "entityId": "form_5ae8932a-6395-4290-8593-d59a55f40670",
+        "action": "save",
+        "createdAt": "2026-10-14T07:19:23.089Z",
+        "synced": false
+      },
+      {
+        "id": "sync_29a740a8-f3cf-4894-b276-ed6d64b29977",
+        "entity": "form",
+        "entityId": "form_94fdbb47-b22d-40cd-bdcc-627161114517",
+        "action": "save",
+        "createdAt": "2026-10-13T12:09:14.351Z",
+        "synced": false
+      },
+      {
+        "id": "sync_2d4eca6c-504a-4777-ac3b-6b01dc9e4a82",
+        "entity": "school",
+        "entityId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "action": "delete",
+        "createdAt": "2026-10-13T16:03:50.070Z",
+        "synced": false
+      },
+      {
+        "id": "sync_2f18a453-4801-4fb6-a61a-f8604ad761b2",
+        "entity": "form",
+        "entityId": "form_cdb518d0-e6a0-42b5-b910-a2fdce0b81d6",
+        "action": "save",
+        "createdAt": "2026-10-14T07:25:05.205Z",
+        "synced": false
+      },
+      {
+        "id": "sync_39d5bc27-7802-4698-9e7f-58680a300ffe",
+        "entity": "form",
+        "entityId": "form_36194c77-063d-4aea-ac7b-09b950f0efff",
+        "action": "save",
+        "createdAt": "2026-10-14T07:24:01.869Z",
+        "synced": false
+      },
+      {
+        "id": "sync_3b428b84-5ab3-4d1f-8d18-9e5c075e329d",
+        "entity": "school",
+        "entityId": "school_4b7f493f-3c5b-4b27-9194-91d7048a2e6c",
+        "action": "save",
+        "createdAt": "2026-10-13T15:40:25.343Z",
+        "synced": false
+      },
+      {
+        "id": "sync_5281b623-efa5-451d-b843-a847946a5653",
+        "entity": "school",
+        "entityId": "school_3a311d01-6870-4a2b-9894-de669827c369",
+        "action": "save",
+        "createdAt": "2026-10-13T12:02:40.620Z",
+        "synced": false
+      },
+      {
+        "id": "sync_551d58de-7d9d-4664-b084-ac4f327528ed",
+        "entity": "form",
+        "entityId": "form_f0400971-926f-4aac-a22f-7f3514a37297",
+        "action": "delete",
+        "formNumber": "1001",
+        "createdAt": "2026-10-13T16:57:42.696Z",
+        "synced": false
+      },
+      {
+        "id": "sync_5add88c0-201d-41d1-85c7-728998195901",
+        "entity": "form",
+        "entityId": "form_f3797dc3-4080-4fc7-ac7e-e27e6fd24655",
+        "action": "save",
+        "createdAt": "2026-10-13T12:12:43.669Z",
+        "synced": false
+      },
+      {
+        "id": "sync_636bfac9-34df-46ea-a3a7-2183d101f848",
+        "entity": "form",
+        "entityId": "form_375ecc04-a435-4881-8bb6-c6ba53ab143f",
+        "action": "save",
+        "createdAt": "2026-10-13T12:05:18.497Z",
+        "synced": false
+      },
+      {
+        "id": "sync_73ef6fb0-409f-4807-bea4-c9b27aefb292",
+        "entity": "form",
+        "entityId": "form_9a5b4890-8e9a-4131-9729-0d6b6cd8be56",
+        "action": "save",
+        "createdAt": "2026-10-14T07:26:33.712Z",
+        "synced": false
+      },
+      {
+        "id": "sync_77ba5723-621c-40aa-b2ed-a7d2a84eb75f",
+        "entity": "form",
+        "entityId": "form_f3797dc3-4080-4fc7-ac7e-e27e6fd24655",
+        "action": "save",
+        "createdAt": "2026-10-13T12:06:21.287Z",
+        "synced": false
+      },
+      {
+        "id": "sync_7b1eaa14-abdf-4dcc-a91e-bf7cbad7c4ae",
+        "entity": "form",
+        "entityId": "form_888f2a48-88a6-4edb-9ac4-a75462a79131",
+        "action": "save",
+        "createdAt": "2026-10-14T07:23:16.132Z",
+        "synced": false
+      },
+      {
+        "id": "sync_8783788e-a0b6-4309-81b7-630681841713",
+        "entity": "form",
+        "entityId": "form_dfc26af8-9a81-4fb7-bf19-01553801b94b",
+        "action": "save",
+        "createdAt": "2026-10-12T04:38:14.903Z",
+        "synced": false
+      },
+      {
+        "id": "sync_920dadec-0d57-4c5b-88fb-44ea4f6b1148",
+        "entity": "form",
+        "entityId": "form_f0400971-926f-4aac-a22f-7f3514a37297",
+        "action": "save",
+        "createdAt": "2026-10-13T16:57:28.363Z",
+        "synced": false
+      },
+      {
+        "id": "sync_94e2464e-3e2e-47a4-9c7c-b44330d29083",
+        "entity": "form",
+        "entityId": "form_a46fe8fb-671d-4384-b1e9-03672034fcee",
+        "action": "save",
+        "createdAt": "2026-10-14T07:21:32.955Z",
+        "synced": false
+      },
+      {
+        "id": "sync_a13d7b85-4025-4c5e-bb0a-b040ef2ee239",
+        "entity": "form",
+        "entityId": "form_1b45f333-89fc-4438-b816-b3ff543b2ff0",
+        "action": "save",
+        "createdAt": "2026-10-14T07:20:41.617Z",
+        "synced": false
+      },
+      {
+        "id": "sync_a5585bf0-7ea9-43d3-afda-41fae84f7202",
+        "entity": "form",
+        "entityId": "form_dfc26af8-9a81-4fb7-bf19-01553801b94b",
+        "action": "save",
+        "createdAt": "2026-10-12T04:39:11.695Z",
+        "synced": false
+      },
+      {
+        "id": "sync_ac73fee0-029b-4cee-8a91-0f16e6b7b466",
+        "entity": "form",
+        "entityId": "form_4389e583-aabe-43d8-b8af-5c5f35515388",
+        "action": "save",
+        "createdAt": "2026-10-14T07:27:54.521Z",
+        "synced": false
+      },
+      {
+        "id": "sync_b1606adb-cf55-4406-b9f4-e99b429cc70d",
+        "entity": "form",
+        "entityId": "form_dfd4f893-ba53-4f63-b2ee-87114136e6f5",
+        "action": "save",
+        "createdAt": "2026-10-14T07:25:50.707Z",
+        "synced": false
+      },
+      {
+        "id": "sync_f1e3d59d-51fc-4c1a-8efd-0cf870b7f041",
+        "entity": "form",
+        "entityId": "form_3efaee05-cef5-4b8c-9939-3fad907659d3",
+        "action": "save",
+        "createdAt": "2026-10-14T07:22:12.222Z",
+        "synced": false
+      },
+      {
+        "id": "sync_f5bc3eb7-29a8-4493-a800-71a60a7e5680",
+        "entity": "form",
+        "entityId": "form_dfc26af8-9a81-4fb7-bf19-01553801b94b",
+        "action": "delete",
+        "formNumber": "101",
+        "createdAt": "2026-10-13T12:10:30.746Z",
+        "synced": false
+      },
+      {
+        "id": "sync_fb991ee4-89f1-49de-913b-e48bd5dff4f0",
+        "entity": "form",
+        "entityId": "form_dc1d758a-aee7-4d97-b7dd-c64441d19fd2",
+        "action": "save",
+        "createdAt": "2026-10-13T12:04:25.861Z",
+        "synced": false
+      }
+    ]
   },
   "stats": {
-    "forms": 22,
-    "schools": 5,
+    "forms": 33,
+    "schools": 4,
     "settings": 0,
-    "syncQueue": 0
+    "deletedForms": 2,
+    "syncQueue": 26
   }
 }
