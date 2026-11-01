@@ -1,11 +1,11 @@
 {
   "backupType": "ScholarshipFormManager",
   "backupVersion": 1,
-  "exportedAt": "2026-10-29T09:28:20.325Z",
+  "exportedAt": "2026-11-01T03:24:21.241Z",
   "exportedBy": {
-    "name": "Administrator",
-    "username": "admin",
-    "role": "administrator"
+    "name": "Anower Hossain",
+    "username": "anowerhossain26",
+    "role": "member"
   },
   "app": {
     "name": "Scholarship Form Manager",
@@ -16713,6 +16713,29 @@
         }
       },
       {
+        "name": "আল মানার একাডেমি",
+        "upazila": "Daudkandi",
+        "union": "",
+        "village": "",
+        "principalName": "",
+        "principalPhone": "",
+        "dutyTeacherName": "",
+        "dutyTeacherPhone": "",
+        "id": "school_28fdfdd8-326f-4e0d-97f4-d077e1e6bac3",
+        "createdAt": "2026-11-01T03:23:52.240Z",
+        "updatedAt": "2026-11-01T03:23:52.250Z",
+        "createdBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Anower Hossain",
+          "username": "anowerhossain26",
+          "role": "member"
+        }
+      },
+      {
         "name": "সিলিকন ভ্যালি স্কুল",
         "upazila": "Daudkandi",
         "union": "",
@@ -19636,6 +19659,14 @@
         "synced": false
       },
       {
+        "id": "sync_64aa3512-3c26-4857-9f5c-33bf0bfb0308",
+        "entity": "school",
+        "entityId": "school_28fdfdd8-326f-4e0d-97f4-d077e1e6bac3",
+        "action": "save",
+        "createdAt": "2026-11-01T03:23:52.265Z",
+        "synced": false
+      },
+      {
         "id": "sync_64c6998d-fed9-4d67-9672-997f5c2b927c",
         "entity": "form",
         "entityId": "form_dd8ef73a-1c46-4c04-9489-31ff3057599e",
@@ -22441,8 +22472,8 @@
   "stats": {
     "forms": 487,
     "deletedForms": 2,
-    "schools": 54,
+    "schools": 55,
     "settings": 0,
-    "syncQueue": 574
+    "syncQueue": 575
   }
 }
