@@ -1,7 +1,7 @@
 {
   "backupType": "ScholarshipFormManager",
   "backupVersion": 1,
-  "exportedAt": "2026-11-11T17:28:38.328Z",
+  "exportedAt": "2026-11-19T14:31:50.090Z",
   "exportedBy": {
     "name": "Administrator",
     "username": "admin",
@@ -5078,6 +5078,40 @@
           "role": "member"
         },
         "submittedAt": "2026-11-04T02:55:45.988Z"
+      },
+      {
+        "formNumber": "6701",
+        "schoolId": "school_11876ee5-e905-4a0e-9d0f-4d667814d72e",
+        "area": "Gouripur",
+        "distributionDate": "2026-11-19",
+        "studentName": "ইসহাক হোসাইন",
+        "fatherName": "কামরুজ্জামান",
+        "motherName": "ফাতেমা আক্তার",
+        "className": "Class 8",
+        "roll": "",
+        "studentPhone": "",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_19b33964-a4ac-4a86-8755-b1c981659b04",
+        "createdAt": "2026-11-19T13:20:41.656Z",
+        "updatedAt": "2026-11-19T13:20:41.661Z",
+        "createdBy": {
+          "name": "Mehedi Hasan",
+          "username": "mehedihasan26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Mehedi Hasan",
+          "username": "mehedihasan26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Mehedi Hasan",
+          "username": "mehedihasan26",
+          "role": "member"
+        },
+        "submittedAt": "2026-11-19T13:20:41.661Z"
       },
       {
         "formNumber": "8382",
@@ -46798,6 +46832,40 @@
         "submittedAt": "2026-10-28T20:25:43.447Z"
       },
       {
+        "formNumber": "6707",
+        "schoolId": "school_11876ee5-e905-4a0e-9d0f-4d667814d72e",
+        "area": "Gouripur",
+        "distributionDate": "2026-11-15",
+        "studentName": "",
+        "fatherName": "",
+        "motherName": "",
+        "className": "Class 6",
+        "roll": "",
+        "studentPhone": "",
+        "guardianPhone": "",
+        "status": "Submitted",
+        "notes": "",
+        "id": "form_dfc72e03-5412-4350-b6b9-3ad8f467f1a6",
+        "createdAt": "2026-11-15T05:14:38.422Z",
+        "updatedAt": "2026-11-15T05:14:38.464Z",
+        "createdBy": {
+          "name": "Nazmul Islam",
+          "username": "nazmulislam26",
+          "role": "member"
+        },
+        "updatedBy": {
+          "name": "Nazmul Islam",
+          "username": "nazmulislam26",
+          "role": "member"
+        },
+        "submittedBy": {
+          "name": "Nazmul Islam",
+          "username": "nazmulislam26",
+          "role": "member"
+        },
+        "submittedAt": "2026-11-15T05:14:38.464Z"
+      },
+      {
         "formNumber": "7673",
         "schoolId": "school_ffd4ce72-a8af-4259-b1e0-3aa588960c05",
         "area": "জিয়ারকান্দি, জিয়ারকান্দি",
@@ -54317,7 +54385,7 @@
         }
       },
       {
-        "name": "৬৭নং মিরাশ নিলখী সরকারি প্রাথমিক বিদ্যালয়",
+        "name": "মিরাশ নিলখী সরকারি প্রাথমিক বিদ্যালয়",
         "upazila": "Homna",
         "union": "",
         "village": "",
@@ -54327,16 +54395,16 @@
         "dutyTeacherPhone": "",
         "id": "school_114e43f6-f617-4caf-a63a-21dba8520355",
         "createdAt": "2026-11-08T06:22:00.757Z",
-        "updatedAt": "2026-11-08T06:22:00.757Z",
+        "updatedAt": "2026-11-19T14:21:16.508Z",
         "createdBy": {
           "name": "Kashem Ali",
           "username": "kashemali26",
           "role": "member"
         },
         "updatedBy": {
-          "name": "Kashem Ali",
-          "username": "kashemali26",
-          "role": "member"
+          "name": "Administrator",
+          "username": "admin",
+          "role": "administrator"
         }
       },
       {
@@ -55168,7 +55236,7 @@
         }
       },
       {
-        "name": "আলহেরা একাডেমী, দাউদকান্দি",
+        "name": "আলহেরা একাডেমী",
         "upazila": "Daudkandi",
         "union": "",
         "village": "",
@@ -55178,16 +55246,16 @@
         "dutyTeacherPhone": "",
         "id": "school_5e9eeddf-a4dc-434c-8228-657e3b6e112c",
         "createdAt": "2026-11-05T05:16:15.645Z",
-        "updatedAt": "2026-11-05T05:16:15.645Z",
+        "updatedAt": "2026-11-15T13:59:53.102Z",
         "createdBy": {
           "name": "Ekramul Haq",
           "username": "ekramulhaq26",
           "role": "member"
         },
         "updatedBy": {
-          "name": "Ekramul Haq",
-          "username": "ekramulhaq26",
-          "role": "member"
+          "name": "Administrator",
+          "username": "admin",
+          "role": "administrator"
         }
       },
       {
@@ -55950,7 +56018,7 @@
         }
       },
       {
-        "name": "উত্তর নসুরুদ্দি সরকারি প্রাথমিক বিদ্যালয়, দাউদকান্দি",
+        "name": "উত্তর নসুরুদ্দি সরকারি প্রাথমিক বিদ্যালয়",
         "upazila": "Daudkandi",
         "union": "",
         "village": "",
@@ -55960,16 +56028,16 @@
         "dutyTeacherPhone": "",
         "id": "school_9943a362-9a35-48ff-a558-51eb32b7c346",
         "createdAt": "2026-11-05T06:40:50.096Z",
-        "updatedAt": "2026-11-05T06:40:50.096Z",
+        "updatedAt": "2026-11-15T14:00:06.142Z",
         "createdBy": {
           "name": "Ekramul Haq",
           "username": "ekramulhaq26",
           "role": "member"
         },
         "updatedBy": {
-          "name": "Ekramul Haq",
-          "username": "ekramulhaq26",
-          "role": "member"
+          "name": "Administrator",
+          "username": "admin",
+          "role": "administrator"
         }
       },
       {
@@ -56295,7 +56363,7 @@
         }
       },
       {
-        "name": "৮নং দাউদকান্দি ঈদগাহ সরকারি প্রাথমিক বিদ্যালয়",
+        "name": "দাউদকান্দি ঈদগাহ সরকারি প্রাথমিক বিদ্যালয়",
         "upazila": "Daudkandi",
         "union": "",
         "village": "",
@@ -56305,16 +56373,16 @@
         "dutyTeacherPhone": "",
         "id": "school_c2f3b2a7-0b6c-4ccb-82d3-b0aefd314d01",
         "createdAt": "2026-11-05T06:23:47.777Z",
-        "updatedAt": "2026-11-05T06:23:47.779Z",
+        "updatedAt": "2026-11-19T14:21:37.949Z",
         "createdBy": {
           "name": "Ekramul Haq",
           "username": "ekramulhaq26",
           "role": "member"
         },
         "updatedBy": {
-          "name": "Ekramul Haq",
-          "username": "ekramulhaq26",
-          "role": "member"
+          "name": "Administrator",
+          "username": "admin",
+          "role": "administrator"
         }
       },
       {
@@ -56709,7 +56777,7 @@
         }
       },
       {
-        "name": "বিয়াম ল্যাবরেটরি স্কুল, দাউদকান্দি",
+        "name": "বিয়াম ল্যাবরেটরি স্কুল",
         "upazila": "Daudkandi",
         "union": "দাউদকান্দি",
         "village": "",
@@ -56719,16 +56787,16 @@
         "dutyTeacherPhone": "",
         "id": "school_e6350179-1c96-4c86-b308-6013989da41d",
         "createdAt": "2026-11-07T15:37:26.330Z",
-        "updatedAt": "2026-11-07T15:37:26.330Z",
+        "updatedAt": "2026-11-15T15:03:21.729Z",
         "createdBy": {
           "name": "Ekramul Haq",
           "username": "ekramulhaq26",
           "role": "member"
         },
         "updatedBy": {
-          "name": "Ekramul Haq",
-          "username": "ekramulhaq26",
-          "role": "member"
+          "name": "Administrator",
+          "username": "admin",
+          "role": "administrator"
         }
       },
       {
@@ -57123,7 +57191,7 @@
         }
       }
     ],
-    "settings": [],
+    "settings":[];
     "syncQueue": [
       {
         "id": "sync_0001bbce-da5d-4e03-b8ab-ed31403ec4bd",
@@ -57694,6 +57762,14 @@
         "synced": false
       },
       {
+        "id": "sync_086e1f6d-e6bb-4920-ac13-7a63a1a218ed",
+        "entity": "school",
+        "entityId": "school_b5cb221e-1ffc-4479-b2c0-763496365d1c",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:18:42.849Z",
+        "synced": false
+      },
+      {
         "id": "sync_088a75c1-76aa-4e9d-9dd7-0315d12568f4",
         "entity": "form",
         "entityId": "form_d551380f-acb8-4860-9562-efd40267f326",
@@ -57907,6 +57983,14 @@
         "entityId": "form_5e280e00-6f64-4d2a-a599-0c1d4be02b8e",
         "action": "save",
         "createdAt": "2026-10-18T03:54:47.880Z",
+        "synced": false
+      },
+      {
+        "id": "sync_0badbe1d-db3d-44a2-a48b-a8fd16b8dc79",
+        "entity": "school",
+        "entityId": "school_62bd2d6e-9964-40cf-9c10-4ea0ad494c9c",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:16:50.440Z",
         "synced": false
       },
       {
@@ -58243,6 +58327,14 @@
         "entityId": "form_667d5623-2d0d-4571-bf4c-bdffd5e7a7b3",
         "action": "save",
         "createdAt": "2026-11-06T08:23:06.285Z",
+        "synced": false
+      },
+      {
+        "id": "sync_10b0765b-fbf6-4de6-896d-0326f1fcb7f2",
+        "entity": "school",
+        "entityId": "school_774246ef-181d-4597-9177-28d61f8b053a",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:17:00.312Z",
         "synced": false
       },
       {
@@ -58715,6 +58807,14 @@
         "entityId": "form_dac9a65e-ebdc-4671-8e5f-104dd92e09c6",
         "action": "save",
         "createdAt": "2026-11-08T17:35:37.568Z",
+        "synced": false
+      },
+      {
+        "id": "sync_17afed79-8b54-4601-80ea-217435d1775d",
+        "entity": "form",
+        "entityId": "form_dfc72e03-5412-4350-b6b9-3ad8f467f1a6",
+        "action": "save",
+        "createdAt": "2026-11-15T05:14:38.519Z",
         "synced": false
       },
       {
@@ -59515,6 +59615,22 @@
         "entityId": "form_fe269e11-af6e-4d1a-bb13-0f35f33fe0e6",
         "action": "save",
         "createdAt": "2026-11-08T06:19:20.044Z",
+        "synced": false
+      },
+      {
+        "id": "sync_27fc96c5-1790-41d5-a3a2-ead0a3f7c8e0",
+        "entity": "school",
+        "entityId": "school_114e43f6-f617-4caf-a63a-21dba8520355",
+        "action": "save",
+        "createdAt": "2026-11-19T14:21:16.509Z",
+        "synced": false
+      },
+      {
+        "id": "sync_28342132-d33d-414e-b4aa-2287f0dc9ef6",
+        "entity": "school",
+        "entityId": "school_9943a362-9a35-48ff-a558-51eb32b7c346",
+        "action": "save",
+        "createdAt": "2026-11-15T14:00:06.143Z",
         "synced": false
       },
       {
@@ -60478,6 +60594,14 @@
         "synced": false
       },
       {
+        "id": "sync_3730c57d-6026-481c-8a8f-212610481965",
+        "entity": "school",
+        "entityId": "school_d0472fa8-ef48-4d57-922e-a37ad8348307",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:19:02.323Z",
+        "synced": false
+      },
+      {
         "id": "sync_375df7fb-b35f-4d88-9b24-2684d1a0babb",
         "entity": "form",
         "entityId": "form_a534a97f-23de-4a9c-88db-bdbb7539fe30",
@@ -61430,6 +61554,14 @@
         "synced": false
       },
       {
+        "id": "sync_48f91002-4c8b-49a3-bc17-c92e3b2d4673",
+        "entity": "school",
+        "entityId": "school_63f09ef8-7316-4501-aac6-d6b2db940bc1",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:18:26.609Z",
+        "synced": false
+      },
+      {
         "id": "sync_4925c9fb-03a0-4049-bf5c-6545494f2de7",
         "entity": "form",
         "entityId": "form_6f9139c8-ccab-490b-ab5b-91ac1d7dfde4",
@@ -61651,6 +61783,14 @@
         "entityId": "form_970d94be-9049-4bf5-a56a-bfb7c0c9b87e",
         "action": "save",
         "createdAt": "2026-11-08T17:04:10.654Z",
+        "synced": false
+      },
+      {
+        "id": "sync_4ca0ac2e-cd8c-48f1-8b12-ed0bb291aa54",
+        "entity": "school",
+        "entityId": "school_c2f3b2a7-0b6c-4ccb-82d3-b0aefd314d01",
+        "action": "save",
+        "createdAt": "2026-11-19T14:21:37.950Z",
         "synced": false
       },
       {
@@ -62831,6 +62971,14 @@
         "synced": false
       },
       {
+        "id": "sync_60cc1516-013b-4352-8b8c-72c19149402b",
+        "entity": "school",
+        "entityId": "school_391c236d-f902-4ec1-9d76-93822f2789c4",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:16:36.167Z",
+        "synced": false
+      },
+      {
         "id": "sync_60f66c9e-8dff-407e-a5d1-78c3df20bb2a",
         "entity": "form",
         "entityId": "form_9542d12a-3850-486d-ac20-ec3406089783",
@@ -63532,6 +63680,14 @@
         "entityId": "form_72ead588-50db-45c3-913f-2cfcc58c03f7",
         "action": "save",
         "createdAt": "2026-11-11T17:19:54.911Z",
+        "synced": false
+      },
+      {
+        "id": "sync_6d0a51ff-2bfb-4f76-8d1c-f26477692969",
+        "entity": "school",
+        "entityId": "school_fcf3cca0-cac3-49ff-8d8a-15f27ad8be03",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:17:55.230Z",
         "synced": false
       },
       {
@@ -64575,6 +64731,14 @@
         "synced": false
       },
       {
+        "id": "sync_7c9458cb-58c4-404d-9a95-d5825e12a693",
+        "entity": "school",
+        "entityId": "school_e6350179-1c96-4c86-b308-6013989da41d",
+        "action": "save",
+        "createdAt": "2026-11-15T15:03:21.730Z",
+        "synced": false
+      },
+      {
         "id": "sync_7cab89b2-464f-4b4f-8b8a-dd9fc2aac8ba",
         "entity": "form",
         "entityId": "form_66f5e0b8-975b-44cb-a7d3-ce0778e48957",
@@ -65231,6 +65395,14 @@
         "synced": false
       },
       {
+        "id": "sync_879afb07-9b6e-4e27-894d-55deb2a3d65b",
+        "entity": "school",
+        "entityId": "school_8e2111f1-ac2f-489e-856f-6352c849eb73",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:17:16.331Z",
+        "synced": false
+      },
+      {
         "id": "sync_87bc1634-bfd8-4585-8547-53d8d35dd02c",
         "entity": "form",
         "entityId": "form_b77d55e7-8743-498f-8951-158870c49a62",
@@ -65759,6 +65931,14 @@
         "synced": false
       },
       {
+        "id": "sync_92df3ca1-078b-41ae-9f59-1119012bcdc5",
+        "entity": "school",
+        "entityId": "school_3f45f93e-d183-4be6-a741-5daa251e5178",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:18:14.004Z",
+        "synced": false
+      },
+      {
         "id": "sync_92e8f763-12d7-4976-88ce-065ad5403063",
         "entity": "form",
         "entityId": "form_67a9a6f8-133b-422b-b518-56437f4b69d2",
@@ -66044,6 +66224,14 @@
         "entityId": "form_9357649a-8b85-4256-95c8-82fa8e856891",
         "action": "save",
         "createdAt": "2026-11-05T06:34:18.815Z",
+        "synced": false
+      },
+      {
+        "id": "sync_9782c724-06db-440b-b55f-e4fd249e780e",
+        "entity": "school",
+        "entityId": "school_37492b9d-31cf-4e9c-92c4-81b2b2ee33ab",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:07:03.047Z",
         "synced": false
       },
       {
@@ -66748,6 +66936,14 @@
         "entityId": "form_3745be7c-58f8-41ed-a89e-6e625b4a8094",
         "action": "save",
         "createdAt": "2026-11-04T02:32:49.879Z",
+        "synced": false
+      },
+      {
+        "id": "sync_a28a9f83-829f-45dd-912b-9b4dfb37bdd7",
+        "entity": "school",
+        "entityId": "school_37492b9d-31cf-4e9c-92c4-81b2b2ee33ab",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:16:23.896Z",
         "synced": false
       },
       {
@@ -68239,6 +68435,14 @@
         "synced": false
       },
       {
+        "id": "sync_bbc08e5f-bd7e-4797-917e-c2e15d962c8d",
+        "entity": "form",
+        "entityId": "form_19b33964-a4ac-4a86-8755-b1c981659b04",
+        "action": "save",
+        "createdAt": "2026-11-19T13:20:41.672Z",
+        "synced": false
+      },
+      {
         "id": "sync_bbd92d02-5543-4907-a609-2779e7c19313",
         "entity": "form",
         "entityId": "form_b5d8c716-90af-4a27-b019-d795829e4903",
@@ -68284,6 +68488,14 @@
         "entityId": "form_a3ba2b1b-0886-4c79-9836-6404187882db",
         "action": "save",
         "createdAt": "2026-10-28T19:04:08.899Z",
+        "synced": false
+      },
+      {
+        "id": "sync_bc6c9dd5-69dc-4fb9-9082-a48741fb9310",
+        "entity": "school",
+        "entityId": "school_aa5c1e6e-c838-494d-83a8-43e86ba090a2",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:17:44.427Z",
         "synced": false
       },
       {
@@ -69472,6 +69684,14 @@
         "synced": false
       },
       {
+        "id": "sync_cfc85cfa-cf41-48fc-925b-b333e9cc0a69",
+        "entity": "school",
+        "entityId": "school_566818dc-f442-48e3-9b79-78311dcdc9a4",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:18:07.702Z",
+        "synced": false
+      },
+      {
         "id": "sync_cfe4260e-c740-4084-a232-520523eb409f",
         "entity": "form",
         "entityId": "form_98d3418b-ceef-4e21-bcbe-39cdfff65ebc",
@@ -69485,6 +69705,14 @@
         "entityId": "form_f9f2ebe1-8745-444f-a88d-264bd139fe89",
         "action": "save",
         "createdAt": "2026-10-28T18:21:08.688Z",
+        "synced": false
+      },
+      {
+        "id": "sync_d070cb51-cf14-4dc3-babf-82fc9b3b9160",
+        "entity": "school",
+        "entityId": "school_20d97932-1f7b-4941-9772-80e18edccbae",
+        "action": "delete",
+        "createdAt": "2026-11-19T14:17:35.623Z",
         "synced": false
       },
       {
@@ -72291,6 +72519,14 @@
         "synced": false
       },
       {
+        "id": "sync_ff85dbf1-8ad3-44bc-a677-89af085a8d74",
+        "entity": "school",
+        "entityId": "school_5e9eeddf-a4dc-434c-8228-657e3b6e112c",
+        "action": "save",
+        "createdAt": "2026-11-15T13:59:53.104Z",
+        "synced": false
+      },
+      {
         "id": "sync_ffc25b54-2c95-49c7-96ad-617ef4f9f53d",
         "entity": "school",
         "entityId": "school_e670834d-192e-4d03-82ba-25b10be89e17",
@@ -72317,10 +72553,10 @@
     ]
   },
   "stats": {
-    "forms": 1590,
+    "forms": 1592,
     "deletedForms": 5,
     "schools": 130,
-    "settings": 0,
-    "syncQueue": 1898
+    "settings": 2,
+    "syncQueue": 1919
   }
 }
